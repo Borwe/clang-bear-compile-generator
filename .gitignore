@@ -1,0 +1,5 @@
+#ignore compile_commands.json file
+compile_commands.json
+
+#ignore my py venv
+py3/
