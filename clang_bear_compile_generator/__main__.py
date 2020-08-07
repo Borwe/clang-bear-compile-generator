@@ -1,4 +1,4 @@
-import runner
+import clang_bear_compile_generator.runner as runner
 import sys
 
 if __name__ == "__main__":
