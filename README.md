@@ -12,8 +12,18 @@ Many people use LSP servers like clangd for C/C++ developer which are reliant on
 
 
 
-## Commands:
+## Manual Installation:
 
-pip install ./clang_bear_compile
+Clone the repository:
 
-## Option:
+`git clone https://github.com/Borwe/clang-bear-compile-generator`
+
+cd into it
+
+`cd clang-bear-compile-generator`
+
+and run
+
+`python setup.py install`
+
+## 
